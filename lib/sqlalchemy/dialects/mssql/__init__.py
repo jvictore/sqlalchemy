@@ -47,7 +47,7 @@ from .base import XML
 from ...sql import try_cast
 
 
-base.dialect = dialect = pyodbc.dialect
+base.dialect = dialect = pypyodbc.dialect
 
 
 __all__ = (
