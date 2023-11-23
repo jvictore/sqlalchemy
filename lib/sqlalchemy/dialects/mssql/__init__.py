@@ -10,6 +10,7 @@ from . import aioodbc  # noqa
 from . import base  # noqa
 from . import pymssql  # noqa
 from . import pyodbc  # noqa
+from . import pypyodbc  # noqa
 from .base import BIGINT
 from .base import BINARY
 from .base import BIT
